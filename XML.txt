@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<students>
+    <student>
+        <name>John Doe</name>
+        <grade>A</grade>
+        <age>20</age>
+    </student>
+    <student>
+        <name>Jane Smith</name>
+        <age>21</age>
+        <grade>B</grade>
+    </student>
+</students>
